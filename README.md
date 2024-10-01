@@ -1,0 +1,2 @@
+# gsc-500-checker
+gsc-500-checker is a Python tool designed to quickly check a CSV of URLs exported from Google Search Console. It identifies URLs that return a 500 error and outputs a CSV with the results. Ideal for webmasters and developers monitoring site health, this tool simplifies the process of identifying server errors across large URL lists.
